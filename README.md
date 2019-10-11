@@ -1,1 +1,1 @@
-# data-512-wk3-groupproj
+#This repo contains our team's analysis code for week 3 in-class activity
